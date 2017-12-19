@@ -1,22 +1,13 @@
 ---
 layout: post
+title: "Design"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+귀여운 꿀벌 모양의 뮤직 셋탑박스.
+소형 점포에 귀여운 포인트가 되는 인테리어 디자인 기능까지!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+#너무너무 #귀엽지만 #훌륭한 #기능들이!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![사진1](https://postfiles.pstatic.net/MjAxNzEyMTlfNDQg/MDAxNTEzNjc4MDQ0NjI4.fVUZzxrVaKnL4R-NUgny1iAudj2tw8Q2JiyJV402-ZAg.3OwIX4q-vbgXQd4tVRGhYklE_5WdXgrS8yeq16uDB88g.JPEG.funclan0924/111111.jpeg?type=w966)
+![사진2](https://postfiles.pstatic.net/MjAxNzEyMTlfOTMg/MDAxNTEzNjc4MDQ0NzY0.zEdbUxL0aw_hg-6thIchXQ4-cdkzh58zYclArzmgCQYg.rxvTrV1SRwZNys635F5jOWdrdjeb6payCU9jYehtXDwg.JPEG.funclan0924/222222.jpeg?type=w966)
+![사진3](https://postfiles.pstatic.net/MjAxNzEyMTlfMTYz/MDAxNTEzNjc4MDQ0NzE1.TRQKOx7Nhq28JPdwrkqza27bUF8I1vJY3gzI6yK_SOUg.SifHfMBMHChn5UTQb_DQiiSh2pv2ABuBbqDA6HXAMWkg.JPEG.funclan0924/3333333.jpeg?type=w966)
